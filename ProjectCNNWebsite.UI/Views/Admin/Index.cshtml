@@ -1,0 +1,63 @@
+﻿@using ProjectCNNWebsite.Contract.ViewModels
+@model AdminIndexViewModel
+
+@{
+   ViewBag.Title = "Admin Homepage";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <div class="partial-nav">
+        @Html.Partial("AdminNavPartial")
+    </div>
+
+    <div class="tables">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>News Title</th>
+                    <th>News Content</th>
+                    <th>News Photo Path</th>
+                    <th>News Category</th>
+                    <th>News Category Id</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.NewsList)
+                {
+                    <tr>
+                        <td>@item.NewsTitle</td>
+                        <td>@item.NewsContent</td>
+                        <td>@item.NewsPhotoPath</td>
+                        <td>@item.NewsCategory.CategoryName</td>
+                        <td>@item.CategoryId</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="tables">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>CategoryName</th>
+                    <th>CategoryDescription</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Categories)
+                {
+                    <tr>
+                        <td>@item.CategoryName</td>
+                        <td>@item.CategoryDescription</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

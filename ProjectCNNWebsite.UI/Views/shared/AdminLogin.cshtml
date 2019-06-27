@@ -1,0 +1,28 @@
+﻿@model ProjectCNNWebsite.Contract.ViewModels.AdminRegistrationViewModel
+<div>
+    @using (Html.BeginForm("CheckIfAdminExists", "Admin", FormMethod.Post, new { @class = "form" }))
+    {
+        @Html.LabelFor(i => i.AdminNickName,"Your Nickname", new { @for = "Nickname", }) 
+        @Html.TextBoxFor(i => i.AdminNickName, new { name = "nickname" })
+        @Html.LabelFor(i => i.AdminPassword, "Password", new { @for = "Password" })
+        @Html.TextBoxFor(i => i.AdminPassword, new { name = "password", type = "password" })
+        <button type="submit">Sign In</button>
+    }
+</div>
+
+<div>
+    @using (Html.BeginForm("InsertAdmin", "Admin", FormMethod.Post, new { @class = "form" }))
+    {
+        @Html.LabelFor(i => i.AdminFirstName, "Firstname", new { @for = "Firstname" })
+        @Html.TextBoxFor(i => i.AdminFirstName, new { name = "firstname" })
+        @Html.LabelFor(i => i.AdminLastName, "Lastname", new { @for = "Lastname" })
+        @Html.TextBoxFor(i => i.AdminLastName, new { name = "lastname" })
+        @Html.LabelFor(i => i.AdminEmailAddress, "E-mail Address", new { @for = "E-mail Address" })
+        @Html.TextBoxFor(i => i.AdminEmailAddress, new { name = "emailadress", type="email" })
+        @Html.LabelFor(i => i.AdminNickName, "Choose a Nickname", new { @for = "Nickname" })
+        @Html.TextBoxFor(i => i.AdminNickName, new { name = "nicknameToInsert" })
+        @Html.LabelFor(i => i.AdminPassword, "Set a Password", new { @for = "Password" })
+        @Html.TextBoxFor(i => i.AdminPassword, new { name = "passwordToInsert", type = "password" })
+        <button type="submit">Sign Up</button>
+    }
+</div>

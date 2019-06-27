@@ -1,0 +1,6 @@
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Domain\bin\Debug\ProjectCNNWebsite.Domain.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Domain\bin\Debug\ProjectCNNWebsite.Domain.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Domain\obj\Debug\ProjectCNNWebsite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Domain\obj\Debug\ProjectCNNWebsite.Domain.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Domain\obj\Debug\ProjectCNNWebsite.Domain.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Domain\obj\Debug\ProjectCNNWebsite.Domain.csprojAssemblyReference.cache

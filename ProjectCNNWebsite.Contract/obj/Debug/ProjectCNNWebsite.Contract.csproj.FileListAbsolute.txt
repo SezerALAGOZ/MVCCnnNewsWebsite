@@ -1,0 +1,9 @@
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\bin\Debug\ProjectCNNWebsite.Contract.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\bin\Debug\ProjectCNNWebsite.Contract.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\obj\Debug\ProjectCNNWebsite.Contract.csprojAssemblyReference.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\obj\Debug\ProjectCNNWebsite.Contract.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\obj\Debug\ProjectCNNWebsite.Contract.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\obj\Debug\ProjectCNNWebsite.Contract.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\bin\Debug\ProjectCNNWebsite.Domain.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\bin\Debug\ProjectCNNWebsite.Domain.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Contract\obj\Debug\ProjectCNNWebsite.Contract.csproj.CopyComplete

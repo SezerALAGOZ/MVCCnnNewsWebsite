@@ -1,0 +1,17 @@
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\obj\Debug\ProjectCNNWebsite.Services.csprojAssemblyReference.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\obj\Debug\ProjectCNNWebsite.Services.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Services.dll.config
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Services.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Services.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\EntityFramework.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Data.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Domain.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Data.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Data.dll.config
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\ProjectCNNWebsite.Domain.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\EntityFramework.xml
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\obj\Debug\ProjectCNNWebsite.Services.csproj.CopyComplete
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\obj\Debug\ProjectCNNWebsite.Services.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Services\obj\Debug\ProjectCNNWebsite.Services.pdb

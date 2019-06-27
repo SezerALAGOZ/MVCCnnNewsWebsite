@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCNNWebsite.UI", "ProjectCNNWebsite.UI\ProjectCNNWebsite.UI.csproj", "{7165B258-DD4D-456C-86A1-269E8AD37BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCNNWebsite.Domain", "ProjectCNNWebsite.Domain\ProjectCNNWebsite.Domain.csproj", "{9AD9037D-1EB3-44D7-9A90-9F07BA75D870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCNNWebsite.DAL", "ProjectCNNWebsite.DAL\ProjectCNNWebsite.DAL.csproj", "{64A0C8D4-4C61-44CB-A8E2-10CDF76273F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCNNWebsite.Services", "ProjectCNNWebsite.Services\ProjectCNNWebsite.Services.csproj", "{0C4C8585-61C1-4301-8BDC-91C394E4B5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCNNWebsite.Data", "ProjectCNNWebsite.Data\ProjectCNNWebsite.Data.csproj", "{B649AEE6-31C5-499A-91CB-C93A0DB10FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCNNWebsite.Contract", "ProjectCNNWebsite.Contract\ProjectCNNWebsite.Contract.csproj", "{11BA9C0D-B08A-491E-83A6-279C8116515F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7165B258-DD4D-456C-86A1-269E8AD37BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7165B258-DD4D-456C-86A1-269E8AD37BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7165B258-DD4D-456C-86A1-269E8AD37BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7165B258-DD4D-456C-86A1-269E8AD37BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD9037D-1EB3-44D7-9A90-9F07BA75D870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD9037D-1EB3-44D7-9A90-9F07BA75D870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD9037D-1EB3-44D7-9A90-9F07BA75D870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD9037D-1EB3-44D7-9A90-9F07BA75D870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A0C8D4-4C61-44CB-A8E2-10CDF76273F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A0C8D4-4C61-44CB-A8E2-10CDF76273F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A0C8D4-4C61-44CB-A8E2-10CDF76273F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A0C8D4-4C61-44CB-A8E2-10CDF76273F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4C8585-61C1-4301-8BDC-91C394E4B5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4C8585-61C1-4301-8BDC-91C394E4B5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4C8585-61C1-4301-8BDC-91C394E4B5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4C8585-61C1-4301-8BDC-91C394E4B5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B649AEE6-31C5-499A-91CB-C93A0DB10FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B649AEE6-31C5-499A-91CB-C93A0DB10FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B649AEE6-31C5-499A-91CB-C93A0DB10FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B649AEE6-31C5-499A-91CB-C93A0DB10FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BA9C0D-B08A-491E-83A6-279C8116515F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BA9C0D-B08A-491E-83A6-279C8116515F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BA9C0D-B08A-491E-83A6-279C8116515F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BA9C0D-B08A-491E-83A6-279C8116515F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0ED7020-F66D-4242-AF69-47C65BD336B6}
+	EndGlobalSection
+EndGlobal

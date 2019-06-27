@@ -1,0 +1,27 @@
+﻿@using ProjectCNNWebsite.Contract.ViewModels
+@model NewsViewModel
+
+@{
+    ViewBag.Title = "Ekonomi Haberleri";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @foreach (var item in Model.NewsList@*Where(i => i.CategoryId == istenen kategorideki haberleri çekmek için)*@)
+{
+<div class="news-content">
+    <div class="news-content-text">
+        <h1>@item.NewsTitle</h1>
+        <p>@item.NewsContent</p>
+    </div>
+    <img src="@item.NewsPhotoPath" alt="@item.NewsTitle" />
+</div>
+}
+</body>
+</html>

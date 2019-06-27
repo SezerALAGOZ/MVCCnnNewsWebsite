@@ -1,0 +1,38 @@
+﻿@model ProjectCNNWebsite.Contract.ViewModels.AdminDeleteViewModel
+
+@{ 
+   ViewBag.Title = "Delete News";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <div class="partial-nav">
+        @Html.Partial("AdminNavPartial")
+    </div>
+
+    <div>
+        @using (Html.BeginForm("DeleteNews", "Admin", FormMethod.Post, new { @class = "form" }))
+        {
+            <h2>Delete News</h2>
+            @Html.LabelFor(i => i.News.Id, new { name = "Id" })
+            @Html.TextBoxFor(i => i.News.Id)
+            <button type="submit">Save</button>
+        }
+    </div>
+    <div>
+        @using (Html.BeginForm("DeleteCategory", "Admin", FormMethod.Post, new { @class = "form" }))
+        {
+            <h2>Delete Category</h2>
+            @Html.LabelFor(i => i.Category.Id, new { name = "Id" })
+            @Html.TextBoxFor(i => i.Category.Id)
+            <button type="submit">Save</button>
+        }
+    </div>
+
+</body>
+</html>

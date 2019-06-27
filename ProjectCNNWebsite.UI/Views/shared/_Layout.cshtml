@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/styles/site.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="header-container">
+            <header class="header">
+                <div class="logo">
+                    <img src="~/Content/images/1-logo.jpg" alt="cnn-logo" />
+                </div>
+                <div class="primary-nav">
+                    <ul class="nav-list">
+                        <li>
+                            <a href="@Url.Action("Index", "Economics")">Ekonomi</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Index", "HealthNews")">Sağlık</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Index", "Politics")">Siyaset</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Index", "LifeNews")">Yaşam</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("SignIn","Admin")">Admin</a>
+                        </li>
+                    </ul>
+                </div>
+            </header>
+        </div>
+
+        <div class="main-banner">
+            <img src="~/Content/images/2-main-banner.jpg" alt="main-banner" />
+        </div>
+
+        <div class="main-content">
+            @RenderBody()
+        </div>
+
+        <footer class="footer">
+            <div class="social-media">
+                <a href="https://tr-tr.facebook.com/" target="_blank"><img src="~/Content/images/socialmedia/Facebook.png" alt="facebook_icon" /></a>
+                <a href="https://twitter.com/" target="_blank"><img src="~/Content/images/socialmedia/Twitter.png" alt="twitter_icon" /></a>
+                <a href="https://www.youtube.com/" target="_blank"><img src="~/Content/images/socialmedia/YouTube.png" alt="youtube_icon" /></a>
+                <a href="https://www.whatsapp.com/" target="_blank"><img src="~/Content/images/socialmedia/WhatsApp.png" alt="whatsapp_icon" /></a>
+                <a href="https://www.instagram.com/?hl=tr" target="_blank"><img src="~/Content/images/socialmedia/Instagram.png" alt="instagram_icon" /></a>
+                </ul>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

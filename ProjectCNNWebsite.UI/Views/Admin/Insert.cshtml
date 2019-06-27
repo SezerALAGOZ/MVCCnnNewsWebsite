@@ -1,0 +1,58 @@
+﻿@using ProjectCNNWebsite.Contract.ViewModels
+@model AdminIndexViewModel
+
+@{ 
+   ViewBag.Title = "Insert News";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+    <div class="partial-nav">
+        @Html.Partial("AdminNavPartial")
+    </div>
+
+    <div>
+        @using (Html.BeginForm("InsertNews", "Admin", FormMethod.Post, new { @class = "form" }))
+        {
+            <h2>Add News</h2>
+            @Html.LabelFor(i => i.News.NewsTitle, "News Title")
+            @Html.TextBoxFor(i => i.News.NewsTitle, "News Title")
+            @Html.LabelFor(i => i.News.NewsContent, "News Content")
+            @Html.TextBoxFor(i => i.News.NewsContent, "News Content")
+            @Html.LabelFor(i => i.News.NewsPhotoPath, "News Photopath")
+            @Html.TextBoxFor(i => i.News.NewsPhotoPath, "News Photopath")
+            @Html.LabelFor(i => i.News.NewsCategory, "News Category")
+            @Html.TextBoxFor(i => i.News.NewsCategory, "News Category")
+            @Html.LabelFor(i => i.News.CategoryId, "Category ID")
+            @Html.TextBoxFor(i => i.News.CategoryId, "Category ID")
+            <button type="submit">Save</button>
+        }
+    </div>
+
+    <div>
+        @using (Html.BeginForm("CategoryInsert", "Admin", FormMethod.Post, new { @class = "form" }))
+        {
+            <h2>Add Category</h2>
+            @Html.LabelFor(i => i.Category.CategoryName, "Category Name")
+            @Html.TextBoxFor(i => i.Category.CategoryName, "Category Name")
+            @Html.LabelFor(i => i.Category.CategoryDescription, "Category Description")
+            @Html.TextBoxFor(i => i.Category.CategoryDescription, "Category Description")
+            <button type="submit">Save</button>
+        }
+    </div>
+
+    @*<form action="NewsInsert" method="post">
+            <label for="newsTitle">News Title</label>
+            <input type="text" placeholder="Enter news title" id="newsTitle" name="newsTitle" />
+            <label for="lastName">Last Name</label>
+            <input type="text" placeholder="Enter your last name" id="lastName" name="lastName" />
+            <label for="dateOfBirth"></label>
+            <input type="date" placeholder="Enter your birthdate" id="dateOfBirth" name="dateOfBirth" />
+            <button type="submit">Submit</button>
+        </form>*@
+</body>
+</html>

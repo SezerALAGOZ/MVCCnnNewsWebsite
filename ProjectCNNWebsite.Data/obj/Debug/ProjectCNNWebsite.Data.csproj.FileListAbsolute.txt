@@ -1,0 +1,16 @@
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\ProjectCNNWebsite.Data.dll.config
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\ProjectCNNWebsite.Data.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\ProjectCNNWebsite.Data.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\EntityFramework.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\ProjectCNNWebsite.Domain.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\ProjectCNNWebsite.Domain.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\EntityFramework.xml
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\obj\Debug\ProjectCNNWebsite.Data.csprojAssemblyReference.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\obj\Debug\ProjectCNNWebsite.Data.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\obj\Debug\ProjectCNNWebsite.Data.csproj.CopyComplete
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\obj\Debug\ProjectCNNWebsite.Data.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\obj\Debug\ProjectCNNWebsite.Data.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\obj\Debug\ProjectCNNWebsite.Data.Migrations.MigFirst.resources
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.Data\obj\Debug\ProjectCNNWebsite.Data.csproj.GenerateResource.cache

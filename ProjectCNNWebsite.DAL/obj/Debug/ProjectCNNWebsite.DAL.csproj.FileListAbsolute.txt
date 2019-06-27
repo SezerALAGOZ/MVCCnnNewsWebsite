@@ -1,0 +1,9 @@
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\bin\Debug\ProjectCNNWebsite.DAL.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\bin\Debug\ProjectCNNWebsite.DAL.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\bin\Debug\ProjectCNNWebsite.Domain.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\bin\Debug\ProjectCNNWebsite.Domain.pdb
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\obj\Debug\ProjectCNNWebsite.DAL.csprojAssemblyReference.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\obj\Debug\ProjectCNNWebsite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\obj\Debug\ProjectCNNWebsite.DAL.csproj.CopyComplete
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\obj\Debug\ProjectCNNWebsite.DAL.dll
+C:\Users\SEZER\source\repos\ProjectCNNWebsite.UI\ProjectCNNWebsite.DAL\obj\Debug\ProjectCNNWebsite.DAL.pdb
